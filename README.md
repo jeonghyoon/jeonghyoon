@@ -2,8 +2,8 @@
 
 ```jsx
 export const hyoon = {
-  name: 'yoon hyoJeong',
-  role: 'Web Frontend developer',
+  name: 'Yoon HyoJeong',
+  role: 'Web ui/ux design & Frontend develop',
   blog: 'bbahna.github.io',
   email: 'hyoon.dev@gmail.com',
   skill: ['JavaScript', 'TypeScript', 'React', 'Gatsby', ...],
