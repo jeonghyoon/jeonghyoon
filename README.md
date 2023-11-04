@@ -4,7 +4,7 @@
 export const hyoon = {
   name: 'Yoon HyoJeong',
   role: 'ui/ux design & frontend develop',
-  blog: 'hyoon.dev',
+  site: 'hyoon.dev',
   email: 'hyoon.dev@gmail.com',
   skill: ['JavaScript', 'TypeScript', 'React', 'Next', 'React Native', ...],
 }
